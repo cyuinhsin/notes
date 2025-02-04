@@ -1,22 +1,23 @@
 ---
 hero:
-  title: library
-  description: A react library developed with dumi
+  title: TAKE A SEAT
+  description: keep calm and code on
   actions:
     - text: Hello
       link: /
     - text: World
       link: /
 features:
-  - title: Hello
+  - title: 积累技术
     emoji: 💎
     description: Put hello description here
-  - title: World
-    emoji: 🌈
+  - title: 记录遇到的难点
+    emoji: ❓🌈
     description: Put world description here
-  - title: '!'
-    emoji: 🚀
+  - title: 持续佛系更新 有时比较懒
+    emoji: 🚀🙏
     description: Put ! description here
 ---
 
-notes
+
+📧 chenyunxin6@163.com
